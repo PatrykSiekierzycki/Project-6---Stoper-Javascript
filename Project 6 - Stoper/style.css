@@ -1,0 +1,73 @@
+body
+{
+	background-color: #666666;
+}
+
+#container
+{
+	margin-right: auto;
+	margin-left: auto;
+	width: 500px;
+}
+
+#stoper
+{
+	text-align: center;
+	font-size: 25px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+input
+{
+	width: 100px;
+	height: 50px;
+	font-size: 16px;
+	background-color: #02cc38;
+	color: #ffffff;
+}
+
+input:hover
+{
+	background-color: #00aa16;
+	color: #ffffff;
+}
+
+#start
+{
+	float: left;
+	margin-left: 0;
+	margin-right: 100px;
+}
+
+#in_time
+{
+	float: left;
+	margin-right: 100px;
+}
+
+#stop
+{
+	float: left;
+	margin-right: 0;
+}
+
+#reset
+{
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.t
+{
+	margin: 20px;
+	text-align: center;
+	font-size: 16px;
+	color: #ffffff;
+}
+
+.text
+{
+	background-color: #ffffff;
+}
